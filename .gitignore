@@ -25,4 +25,4 @@ local.properties
 *.iml
 .idea/
 
-*.gradle
+.gradle/
